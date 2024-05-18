@@ -1,0 +1,1 @@
+Thanks to campusx and aarohi singla youtube channel and machinelearning mastery website to great explanation of generative adversial network 
